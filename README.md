@@ -98,15 +98,7 @@ app/
 - Prediction Screen
 - Smart Chatbot
 
-*(Screenshots coming soon.)*
 
----
-
-## 👨‍💻 Developer
-
-**Your Name**
-
-B.Tech Computer Science Student
 
 ---
 
